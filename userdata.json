@@ -1,1 +1,9 @@
-
+{
+  "users": [
+    {
+      "name": "Deepanshu",
+      "email": "developersdigitalweb@gmail.com",
+      "password": "deepanshu789"
+    }
+  ]
+}
